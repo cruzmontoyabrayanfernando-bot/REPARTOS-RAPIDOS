@@ -1,4 +1,5 @@
 # REPARTOS-RAPIDOS
+
 <html>
 <head>
     <meta charset="UTF-8">
@@ -1076,7 +1077,10 @@ box-shadow:0 4px 12px rgba(0,0,0,0.3);
                 <label>📝 Referencias (opcional)</label>
                 <textarea id="references" placeholder="Frente a la farmacia, casa blanca con rejas verdes..."></textarea>
             </div>
-
+  <div class="form-group">
+                <label>📞 NUMERO</label>
+                <input type="text" id="address" placeholder="ESCRIBE TU NUMERO" required>
+            </div>
             <div class="form-row">
                 <div class="form-group">
                     <label>💳 Pago</label>
